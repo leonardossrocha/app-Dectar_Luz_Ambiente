@@ -1,4 +1,4 @@
-# Project - Detecção de Luz Ambiente
+# Project - Detecção de Luz Ambiente (Ambient Light Detection)
 
 ### Description
 
@@ -19,3 +19,8 @@ An ambient light detection app developed in Java using Android Studio Ladybug, a
 There are some images that shows how this projects works.
 
 ![Main Project image](main-project.png)
+
+
+Here, you can see when we change the light value in the emulator settings, the ambient light sensor adjusts the brightness.
+
+![Light changed](light-changed.png)
