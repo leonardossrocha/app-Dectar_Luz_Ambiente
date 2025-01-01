@@ -17,3 +17,5 @@ An ambient light detection app developed in Java using Android Studio Ladybug, a
 
 
 There are some images that shows how this projects works.
+
+![Main Project image](main-project.png)
